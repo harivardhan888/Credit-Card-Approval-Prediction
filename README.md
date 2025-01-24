@@ -40,5 +40,7 @@ The Credit Card Approval project is a machine,deep learning application that pre
 **Visualization:** Matplotlib, Seaborn
 
 **Machine Learning:** scikit-learn
+
 **Deep Learining:** Tensorflow, Keras
+
 **Environment:** Jupyter Notebook 

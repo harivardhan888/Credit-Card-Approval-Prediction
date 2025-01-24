@@ -28,3 +28,19 @@ The Credit Card Approval project is a machine,deep learning application that pre
 
 5. **Prediction**:
    - Use the best-performing model to predict whether a credit card application will be approved.
+
+#Tools and Technologies
+
+##Programming Language: 
+Python
+
+##Libraries:
+
+##Data Processing: Pandas, NumPy
+
+##Visualization:
+Matplotlib, Seaborn
+
+##Machine Learning: scikit-learn, XGBoost
+
+##Environment: Jupyter Notebook 
